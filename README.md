@@ -51,9 +51,9 @@ module.exports = {
   moduleFileExtensions: ['ts', 'js', 'json', 'node'],
 };
 ```
-## Test Results
-![Test Results](assets/testResults.png)
 
+## Test Results
+<img src="assets/testResults.png" alt="Test Results" width="300"/>
 
 ## 📚 Included Components
 
